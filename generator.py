@@ -1,3 +1,9 @@
+
+'''
+Writen by - Jordan Swebeck
+'''
+
+
 from tkinter import *
 import random
 from passlib.hash import pbkdf2_sha256
